@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - I :trollface:	
+- Doing Java for the most part. 
+- QA.
