@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 
+![tumblr_d44dd9f797d7f2be7885e1e2f83fe77f_8c61e47d_500](https://user-images.githubusercontent.com/48078889/153169797-81a65d90-8b6c-4dca-9a98-94a5b2c47f8e.gif)
+
 - I :trollface:	
 - Doing Java for the most part. 
 - QA.
